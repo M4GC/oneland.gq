@@ -1,0 +1,15 @@
+# Site settings
+# vim: nospell
+port: 4444
+title: one Land
+description: The safe place on the (inter)net
+email: michelcombes@advancementofcivilizationeffort.org
+baseurl: ""
+url: "//oneland.gq" # the base hostname & protocol for your site
+
+exclude:
+ - .org
+ - _site
+ - Gemfile
+ - Gemfile.lock
+ - travis.sh
